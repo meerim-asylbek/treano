@@ -42,24 +42,24 @@ The technologies listed above were learned from zero to the level that allowed t
 
 
 ## Screenshots
-View of the homepage:
+### Homepage:
 
 ![App Screenshot](/screenshots/homepage1.png)
 ![App Screenshot](/screenshots/homepage2.png)
 ![App Screenshot](/screenshots/homepage3.png)
 
-User dashboard:
+### User dashboard:
 
 ![App Screenshot](/screenshots/dashboard1.png)
 ![App Screenshot](/screenshots/dashboard2.png)
 
-View movie info:
+### View movie info:
 
 ![App Screenshot](/screenshots/movie.png)
 
-Search:
+### Search:
 
 ![App Screenshot](/screenshots/search.png)
 
 
-Visit [www.treano.co](www.treano.co) to get started.
+## Visit [www.treano.co](www.treano.co) to get started.
