@@ -55,13 +55,11 @@ User dashboard:
 
 View movie info:
 
-![App Screenshot](/screenshots/movie_show.png)
+![App Screenshot](/screenshots/movie.png)
 
 Search:
-![App Screenshot](/screenshots/search.png.png)
 
-To run the project both frontend and backend parts have to be started:
-### `npm install`
-### `npm start`
+![App Screenshot](/screenshots/search)
+
 
 Visit [www.treano.co](www.treano.co) to get started.
