@@ -59,7 +59,7 @@ View movie info:
 
 Search:
 
-![App Screenshot](/screenshots/search)
+![App Screenshot](/screenshots/search.png)
 
 
 Visit [www.treano.co](www.treano.co) to get started.
