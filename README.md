@@ -23,11 +23,11 @@ Frontend:
 
 ## Features and use-cases
 Backend:
-* registration, sign in
+* Registration, sign in
 * CRUD (Create, Read, Update, Delete) user data and content
-* search through movies, tv shows, user lists, and other users
-* rating and reviewing, saving lists and movies as favorites
-* awarding scores and badges
+* Search through movies, tv shows, user lists, and other users
+* Rating and reviewing, saving lists and movies as favorites
+* Awarding scores and badges
 
 Frontend:
 * Create, edit, delete lists, add movies to the lists
